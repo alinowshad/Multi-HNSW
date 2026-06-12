@@ -1,0 +1,1 @@
+/usr/bin/c++ -Ofast -lrt -std=c++17 -DHAVE_CXX0X -march=native -fpic -w -fopenmp -ftree-vectorize -ftree-vectorizer-verbose=0 CMakeFiles/hybrid_construction_benchmark.dir/tests/cpp/hybrid_construction_benchmark.cpp.o -o hybrid_construction_benchmark

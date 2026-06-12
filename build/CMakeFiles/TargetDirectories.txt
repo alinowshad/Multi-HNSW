@@ -1,0 +1,14 @@
+/home/ali/hnsw-skipping-construction-quantizer/build/CMakeFiles/multivector_search.dir
+/home/ali/hnsw-skipping-construction-quantizer/build/CMakeFiles/multivector_search_parallel_inner_k_quantized.dir
+/home/ali/hnsw-skipping-construction-quantizer/build/CMakeFiles/multivector_search_parallel_inner_k_quantized_compressed.dir
+/home/ali/hnsw-skipping-construction-quantizer/build/CMakeFiles/multivector_search_parallel_inner_k_quantized_compressed_timing.dir
+/home/ali/hnsw-skipping-construction-quantizer/build/CMakeFiles/compressed_hnsw_benchmark.dir
+/home/ali/hnsw-skipping-construction-quantizer/build/CMakeFiles/compressed_hnsw_verify.dir
+/home/ali/hnsw-skipping-construction-quantizer/build/CMakeFiles/hybrid_construction_benchmark.dir
+/home/ali/hnsw-skipping-construction-quantizer/build/CMakeFiles/multivector_search_bruteforce.dir
+/home/ali/hnsw-skipping-construction-quantizer/build/CMakeFiles/edit_cache.dir
+/home/ali/hnsw-skipping-construction-quantizer/build/CMakeFiles/rebuild_cache.dir
+/home/ali/hnsw-skipping-construction-quantizer/build/CMakeFiles/list_install_components.dir
+/home/ali/hnsw-skipping-construction-quantizer/build/CMakeFiles/install.dir
+/home/ali/hnsw-skipping-construction-quantizer/build/CMakeFiles/install/local.dir
+/home/ali/hnsw-skipping-construction-quantizer/build/CMakeFiles/install/strip.dir
